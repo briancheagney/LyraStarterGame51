@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dnd0xbMlaav4/VqqlqI3wPkHlveDtRI/MayRyJoZP73+eBIF6Ni+Zzg8VuUaibfX7fpSy8YaHQ+dJzK19EEjkw==",
+  "dgSpecHash": "LNucOvVMsgQLY5nHgs1snIqT5NeEbIj/0sqh+dHXt8jl0o0JAFcGc70nqj1ZRmOFbZDZKvoSRb+TzJAFvH4lXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bheagney\\Documents\\Unreal Projects\\LyraStarterGame51\\Build\\Scripts\\Lyra.Automation.csproj",
+  "projectFilePath": "C:\\Users\\bheagney\\Documents\\GitHub\\LyraStarterGame51\\Build\\Scripts\\Lyra.Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bheagney\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\bheagney\\.nuget\\packages\\jetbrains.annotations\\2022.1.0\\jetbrains.annotations.2022.1.0.nupkg.sha512",

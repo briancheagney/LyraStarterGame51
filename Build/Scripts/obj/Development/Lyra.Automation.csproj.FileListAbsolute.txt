@@ -36,3 +36,6 @@ C:\Users\bheagney\Documents\Unreal Projects\LyraStarterGame51\Build\Scripts\obj\
 C:\Users\bheagney\Documents\Unreal Projects\LyraStarterGame51\Build\Scripts\obj\Development\Lyra.Automation.dll
 C:\Users\bheagney\Documents\Unreal Projects\LyraStarterGame51\Build\Scripts\obj\Development\refint\Lyra.Automation.dll
 C:\Users\bheagney\Documents\Unreal Projects\LyraStarterGame51\Build\Scripts\obj\Development\Lyra.Automation.pdb
+C:\Users\bheagney\Documents\GitHub\LyraStarterGame51\Build\Scripts\obj\Development\Lyra.Automation.dll
+C:\Users\bheagney\Documents\GitHub\LyraStarterGame51\Build\Scripts\obj\Development\refint\Lyra.Automation.dll
+C:\Users\bheagney\Documents\GitHub\LyraStarterGame51\Build\Scripts\obj\Development\Lyra.Automation.pdb
